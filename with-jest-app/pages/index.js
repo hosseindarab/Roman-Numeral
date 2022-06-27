@@ -3,9 +3,9 @@
 // Imported components and necessary libraries to interact with reat and next
 import Head from 'next/head'
 import Image from 'next/image'
-import ConvertInput from "./convertInput";
-import ConvertOutput from "./ConvertOutput";
-import convertToRoman from "./convertToRoman";
+import ConvertInput from "../components/convertInput";
+import ConvertOutput from "../components/convertOutput";
+import convertToRoman from "../components/convertToRoman";
 import ReactDOM from "react-dom";
 import React, { Component } from 'react';
 
