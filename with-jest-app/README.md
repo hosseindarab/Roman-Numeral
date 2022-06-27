@@ -24,7 +24,8 @@ npm test
 
 ## How to run the application
 
-After pulling the application in your local machine, open your terminal and run the following command:
+After pulling the application in your local machine, open your terminal and run the following command in
+the right directory(for example C:\dev\Roman Numeral\with-jest-app):
 
 ```bash
 npm run dev
