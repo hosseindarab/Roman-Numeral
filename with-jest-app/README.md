@@ -29,3 +29,6 @@ After pulling the application in your local machine, open your terminal and run 
 ```bash
 npm run dev
 ```
+
+Then, you will see the web browser automatically opens the app. You can also open the app by clicking on the
+provided link in terminal. For example http://localhost:3000
